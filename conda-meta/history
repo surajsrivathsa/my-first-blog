@@ -1,0 +1,21 @@
+==> 2018-11-18 14:40:19 <==
+# cmd: /Users/surajshashidhar/anaconda3/bin/conda create --name django_environment1 python=3
+# conda version: 4.5.11
++defaults::ca-certificates-2018.03.07-0
++defaults::certifi-2018.10.15-py37_0
++defaults::libcxx-4.0.1-hcfea43d_1
++defaults::libcxxabi-4.0.1-hcfea43d_1
++defaults::libedit-3.1.20170329-hb402a30_2
++defaults::libffi-3.2.1-h475c297_4
++defaults::ncurses-6.1-h0a44026_0
++defaults::openssl-1.1.1-h1de35cc_0
++defaults::pip-18.1-py37_0
++defaults::python-3.7.1-haf84260_3
++defaults::readline-7.0-h1de35cc_5
++defaults::setuptools-40.6.2-py37_0
++defaults::sqlite-3.25.3-ha441bb4_0
++defaults::tk-8.6.8-ha441bb4_0
++defaults::wheel-0.32.2-py37_0
++defaults::xz-5.2.4-h1de35cc_4
++defaults::zlib-1.2.11-hf3cbc9b_2
+# update specs: ['python=3']

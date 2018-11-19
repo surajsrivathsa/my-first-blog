@@ -1,0 +1,15 @@
+# tcl pkg-config source file
+
+prefix=/Users/surajshashidhar/anaconda3/envs/django_environment1
+exec_prefix=/Users/surajshashidhar/anaconda3/envs/django_environment1
+libdir=/Users/surajshashidhar/anaconda3/envs/django_environment1/lib
+includedir=${prefix}/include
+
+Name: Tool Command Language
+Description: Tcl is a powerful, easy-to-learn dynamic programming language, suitable for a wide range of uses.
+URL: http://www.tcl.tk/
+Version: 8.6.8
+Requires.private: zlib >= 1.2.3
+Libs: -L${libdir} -ltcl8.6 -ltclstub8.6
+Libs.private:  -lz  -lpthread -framework CoreFoundation 
+Cflags: -I${includedir}
